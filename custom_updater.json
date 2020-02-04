@@ -7,10 +7,7 @@
         "visit_repo": "https://github.com/mizhgan/xiaomi_miio_gateway",
         "changelog": "https://github.com/mizhgan/xiaomi_miio_gateway/releases",
         "resources": [
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/manifest.json",
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/sensor.py",
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/services.yaml",
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/switch.py"
+            "https://raw.githubusercontent.com/mizhgan/xiaomi_miio_gateway/master/custom_components/xiaomi_gateway_radio/media_player.py"
         ]
     }
 }
