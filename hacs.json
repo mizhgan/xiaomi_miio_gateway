@@ -1,0 +1,5 @@
+{
+  "name": "Xiaomi Gateway Radio",
+  "domains": ["media_player"],
+  "render_readme": true
+}
