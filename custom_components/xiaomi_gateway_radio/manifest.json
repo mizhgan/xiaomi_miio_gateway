@@ -1,6 +1,6 @@
   
 {
-  "domain": "media_player",
+  "domain": "xiaomi_gateway_radio",
   "name": "Xiaomi Gateway Radio",
   "documentation": "https://github.com/mizhgan/xiaomi_miio_gateway",
   "requirements": [],
